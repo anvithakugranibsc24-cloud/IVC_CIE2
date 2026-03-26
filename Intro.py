@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+cls = input("Enter your class: ")
+section = input("Enter section: ")
+usn = input("Enter USN: ")
+
+print("Hello")
+print("My name is", name)
+print("I am from class", cls)
+print("Section", section)
+print("USN", usn)
